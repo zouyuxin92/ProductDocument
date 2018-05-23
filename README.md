@@ -1,3 +1,26 @@
+# 感谢宗超和兔兔两位老师
+###1.愿兔兔老师落户工作*顺利进行*
+###2.**感谢***宗***超**老师百忙之中（虽然不太忙）来帮助*我*
+
+
+========================
++ 无序排列 一
+- 无序排列 二
+* 无序排列 三
+
+###3.这是去往 [宗超老师](https://github.com/Backlighting-Neo) 的github
+
+###4.文字引用
+> 我没有钱 我不要脸
+
+###5. 插入图片
+![我的头像](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527664847&di=0f2752b11cdcdf17ed6ab049422f48b6&imgtype=jpg&er=1&src=http%3A%2F%2Fpic.58pic.com%2F58pic%2F16%2F42%2F96%2F56e58PICAu9_1024.jpg)
+
+
+
+--
+
+
 # MacDown
 
 ![MacDown logo](http://macdown.uranusjr.com/static/images/logo-160.png)
